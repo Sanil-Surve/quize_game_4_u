@@ -35,18 +35,18 @@ const quizData = [
     correctAnswer: "Chennai",
   },
   {
-    question: "What is the capital of Uttaranchal?",
+    question: "What is the capital of Uttarakhand?",
     options: ["Dehradun", "Haridwar", "Chandigarh", "Meerut"],
     correctAnswer: "Dehradun",
   },
   {
-    question: "What is the capital of Rajastan?",
+    question: "What is the capital of Rajasthan?",
     options: ["Ajmer", "Rajsamand", "Jaipur", "Jodhpur"],
     correctAnswer: "Jaipur",
   },
   {
     question: "What is the capital of  Gujrat?",
-    options: ["Prbandar", "Surat", "Gandhinagar", "Vododara"],
+    options: ["Porbandar", "Surat", "Gandhinagar", "Vododara"],
     correctAnswer: "Gandhinagar",
   },
 ];
